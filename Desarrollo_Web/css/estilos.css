@@ -1,0 +1,42 @@
+.logo{
+	height: 80px;
+}
+
+.pchVector{
+	height: 380px;
+}
+
+.icono{
+	height: 30px;
+}
+
+.btnUva{
+    background-color:#bd6597;
+    border-color: #bd6597;
+    color:#ffffff;
+    font-weight: bold;
+}
+.btnBlank{
+    background-color:#ffffff;
+    border-color: #bd6597;
+    color:#bd6597;
+    font-weight: bold;
+}
+
+.index{
+    background-color:#bd6597;
+    height: 40px;
+}
+.titulo{
+    color:rgb(255, 255, 255);
+	letter-spacing: 10px;
+    font-size: 20px;
+    height: 20px;
+}
+
+.nav{
+    border-bottom-color: rgb(255, 255, 255);
+    border-left-color: rgb(255, 255, 255);
+    border-right-color: rgb(255, 255, 255);
+    border-top-color:rgb(255, 255, 255);
+}
